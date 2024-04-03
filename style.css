@@ -1,0 +1,35 @@
+body {
+	background-image: url("IMG_20240402_004126_642.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+
+.item {
+	
+	position: absolute;
+}
+.ins {
+	width: 212px;
+    height: 212px;
+    top: 1225px;
+    margin-left: 734px;
+}
+.lok {
+	    width: 200px;
+    height: 200px;
+    top: 1428px;
+    margin-left: 740px;
+}
+.tel {
+	width: 200px;
+    margin-left: 10px;
+    top: 205px;
+    height: 200px;
+}
+.tel2{
+	    width: 219px;
+    height: 219px;
+}
+
+
