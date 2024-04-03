@@ -1,0 +1,22 @@
+body {
+	background-image: url("IMG_20240402_004126_642.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+
+.item {
+	width: 800px;
+	height: 1200px;
+	position: absolute;
+}
+.ins {
+	top: 400px;
+	margin-left: 120px;
+}
+.lok {
+	top: 385px;
+	margin-left: 120px;
+}
+
+
